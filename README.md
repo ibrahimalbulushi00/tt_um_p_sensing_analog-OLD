@@ -1,5 +1,5 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
-
+# Trimmed op-amp, SKY130 port (tt_um_ktm0228_opamp_trim)
 # Tiny Tapeout Analog Project Template
 
 - [Read the documentation for project](docs/info.md)
